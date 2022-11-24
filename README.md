@@ -1,8 +1,6 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/tajri99/pemweb22"><img src="pemweb22/images/Click Me.png" alt="random click me" width="200"></a>
-  <br>
   Random Click ME
   <br>
 </h1>
@@ -11,7 +9,6 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#credits">Credits</a> •
   <a href="#credits">Contact ME</a> •
 </p>
 
@@ -33,6 +30,9 @@
 
 ## Contact ME
 
-<a href="https://twitter.com/TajriNoor" target="_blank"><img src="https://drive.google.com/file/d/1vEtP7lcdz8_Qm2yXraM4HMMptHzd-8Kn/view?usp=share_link" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://twitter.com/TajriNoor" target="_blank">Twitter</a>
+<hr>
+<a href="https://t.me/taj_irjat" target="_blank">Telegram</a>
+
 
 
